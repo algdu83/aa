@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/iptv-org/epg/master/sites/elcinema.com/elcinema.com_ar.channels.xml"
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/al24.png",AL24NEWS قناة الجزائر الدّولية
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
-#EXTINF:-1 tvg-id="AlAoula.ma" tvg-logo="https://i.ibb.co/WcFBy41/oula.png"  ,Al Oula الأولى 
-https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraArabe.nws" tvg-logo="https://i.ibb.co/884RcMF/aljazera.png" , الجزيرة الإخبارية
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i1.sndcdn.com/avatars-000163249127-onw500-t240x240.jpg" ,الجزيرة مباشر
@@ -27,8 +25,6 @@ https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/ind
 https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://backend.roya.tv/imagechanger/Size01Q40R927/images/channels/Uk6vfv1EzBGFuku.png" ,رؤيـــا
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ltv.l-television.com/static/media/LTV-logo_Approved04-1-1536x1411.d7ea77f48eb8047fe322.png" ,Lana لـــنـــا
-https://p-ltv.akamaized.net/ltv/ltv_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/icons/Sama.png" ,سما دبي
 https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/om/omantv.png" ,عُمان
