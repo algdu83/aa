@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="MTA1World.uk" tvg-logo="https://i.postimg.cc/ZYQhv8Cp/mta1world.png" group-title="",MTA1 Word
 https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
 #EXTINF:-1 tvg-id="MTA2Europe.uk" tvg-logo="https://i.imgur.com/aVts0sz.png" group-title="",MTA2 Europe
