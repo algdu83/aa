@@ -1,0 +1,16 @@
+#EXTINF:-1 tvg-id="MTA1World.uk" tvg-logo="https://i.postimg.cc/ZYQhv8Cp/mta1world.png" group-title="",MTA1 Word
+https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
+#EXTINF:-1 tvg-id="MTA2Europe.uk" tvg-logo="https://i.imgur.com/aVts0sz.png" group-title="",MTA2 Europe
+https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
+#EXTINF:-1 tvg-id="MTA3AlArabia.uk" tvg-logo="https://i.imgur.com/m3PEldJ.png" group-title="",MTA3 Al-Arabia
+https://chlivemta1.akamaized.net/hls/live/2010556/mta3alarabia/playlist.m3u8
+#EXTINF:-1 tvg-id="MTA4Africa.uk" tvg-logo="https://i.imgur.com/lmVeQQX.png" group-title="",MTA4 Africa
+https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8
+#EXTINF:-1 tvg-id="MTA5Africa.uk" tvg-logo="https://i.imgur.com/9Cobb2i.png" group-title="",MTA5 Africa
+https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8
+#EXTINF:-1 tvg-id="MTA6Asia.uk" tvg-logo="https://i.imgur.com/nhCNPJI.png" group-title="",MTA6 Asia
+https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
+#EXTINF:-1 tvg-id="MTA7Asia.uk" tvg-logo="https://i.imgur.com/nhCNPJI.png" group-title="",MTA7 Asia
+https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
+#EXTINF:-1 tvg-id="MTA8America.uk" tvg-logo="https://i.imgur.com/CF6X9wB.png" group-title="",MTA7 America
+https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8
