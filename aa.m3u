@@ -29,3 +29,5 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_iraq_716ec2b8be.svg" ,MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" ,مــكّة
+https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
