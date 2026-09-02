@@ -9,7 +9,7 @@ https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i1.sndcdn.com/avatars-000163249127-onw500-t240x240.jpg" ,الجزيرة مباشر
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-id="AlArabiya.nws" tvg-logo="https://i.ibb.co/w7wk4p0/alarabiya.png" , العربية
+#EXTINF:-1 tvg-id="AlArabiya.nws" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFYn8FIm34qOj1gnC-QjCIf3GiozFk579DPFggy2ulmXTB-P5Ku_IlIEs&s=10" , العربية
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" ,مــكّة
 https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
