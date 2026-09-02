@@ -41,5 +41,5 @@ https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Al Araby TV" tvg-logo="https://i.imgur.com/YMqWEe4.png" ,Al Araby TV
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
-#EXTINF:-1 tvg-name="Qatar Television" tvg-logo="https://i.imgur.com/N5RB4sp.png" tvg-id="QatarTelevision.qa" tvg-chno="1" tvg-country="QA" ,Qatar Television
+#EXTINF:-1 tvg-id="Qatar Television" tvg-logo="https://i.imgur.com/N5RB4sp.png" tvg-id="QatarTelevision.qa" tvg-chno="1" tvg-country="QA" ,Qatar Television
 https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8
