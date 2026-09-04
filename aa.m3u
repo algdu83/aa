@@ -17,8 +17,6 @@ https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" ,مــكّة
 https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
-#EXTINF:-1 tvg-id="QatarTVTheHolyQuran.qa@HD" tvg-logo="https://www.qmc.qa/img/LiveChannels/1ca67a44-9290-4b2a-8a16-d8c6e2260816.jpg" ,Qatar TV The Holy Quran
-https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8
 #EXTINF:-1 tvg-id="undefined" tvg-logo="https://i.imgur.com/5ohs2WT.png" ,Al Quran Al Kareem Mecca
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-id="Al Sunnah Al Nabawiyah TV" tvg-logo="https://i.imgur.com/S6LcTJv.png" ,Al Sunnah Al Nabawiyah TV
