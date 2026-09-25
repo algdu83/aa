@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elwatania.png" ,EL WATANIA TV الوطنيّة
 #https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
-#EXTINF:-1 tvg-id="Algerie TV2.dz@SD" tvg-logo="https://i.imgur.com/VEb631f.png" ,Canal Algerie (1080p)
+#EXTINF:-1 tvg-id="Algerie TV2.dz@SD" tvg-logo="https://i.imgur.com/VEb631f.png" ,Canal Algerie
 #http://185.9.2.18/chid_347/index.m3u8
 #EXTINF:-1 tgv-id="AL24NEWS" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2025/07/al-24-new-chaine-tv.png",AL24NEWS قناة الجزائر الدّولية
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
-#EXTINF:-1 tvg-id="ElHeddafTV.dz@SD" tvg-logo="https://i.imgur.com/cDkIDIA.png" ,El-Heddaf TV (1080p)
+#EXTINF:-1 tvg-id="ElHeddafTV.dz@SD" tvg-logo="https://i.imgur.com/cDkIDIA.png" ,El-Heddaf TV
 https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-logo="https://i.ibb.co/dDMQrHP/2m.jpg" ,2M الثانية 
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
@@ -29,9 +29,9 @@ https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
 #EXTINF:-1 tvg-id="iqraa.sa" tvg-logo="https://i.imgur.com/ut0kr4x.png" , قرآن مكة
 https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
-#EXTINF:-1 tvg-id="AsharqDiscovery.sa@SD" tvg-logo="https://i.imgur.com/Czxi7yk.png" ,Asharq Discovery (1080p)
+#EXTINF:-1 tvg-id="AsharqDiscovery.sa@SD" tvg-logo="https://i.imgur.com/Czxi7yk.png" ,Asharq Discovery
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="AsharqDocumentary.sa@SD" tvg-logo="https://i.imgur.com/v6VsFEt.png" ,Asharq Documentary (1080p)
+#EXTINF:-1 tvg-id="AsharqDocumentary.sa@SD" tvg-logo="https://i.imgur.com/v6VsFEt.png" ,Asharq Documentary
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="SBC.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/79/c6/small_946269c528b9c02926a56044d8220afd574b31f7.png" ,SBC
 #https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
@@ -53,5 +53,5 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a2
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Al Araby TV" tvg-logo="https://i.imgur.com/YMqWEe4.png" ,Al Araby TV
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC1Egypt.eg@HD" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/09/Shahid-VIP-Logo-Vector.svg-.png" ,Shahid quran sudaisi
+#EXTINF:-1 tvg-id="MBC1Egypt.eg@HD" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/09/Shahid-VIP-Logo-Vector.svg-.png" ,القران بصوت السديسي
 https://shd-amg-fast.edgenextcdn.net/tx016/playlist.m3u8
