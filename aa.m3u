@@ -3,7 +3,7 @@
 #https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
 #EXTINF:-1 tvg-id="Algerie TV2.dz@SD" tvg-logo="https://i.imgur.com/VEb631f.png" ,Canal Algerie
 #http://185.9.2.18/chid_347/index.m3u8
-#EXTINF:-1 tgv-id="AL24NEWS" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2025/07/al-24-new-chaine-tv.png",AL24NEWS قناة الجزائر الدّولية
+#EXTINF:-1 tgv-id="AL24NEWS" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/AL24_News_Logo.svg/langfr-1280px-AL24_News_Logo.svg.png",AL24NEWS قناة الجزائر الدّولية
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
 #EXTINF:-1 tvg-id="ElHeddafTV.dz@SD" tvg-logo="https://i.imgur.com/cDkIDIA.png" ,El-Heddaf TV
 https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
@@ -11,7 +11,7 @@ https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraArabe.nws" tvg-logo="https://i.ibb.co/884RcMF/aljazera.png" , الجزيرة الإخبارية
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i1.sndcdn.com/avatars-000163249127-onw500-t240x240.jpg" ,الجزيرة مباشر
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/29/Aljazeera_Mubasher.png" ,الجزيرة مباشر
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeera2.qa@HD" tvg-logo="https://i.imgur.com/miq8O1Q.png" , الجزيرة الثانية
 https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
